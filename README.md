@@ -47,7 +47,8 @@ While we don't accept direct contributions to our platform, we value your feedba
 
 For inquiries, assistance, or any questions, please contact us at [support@blogger.com].
 
-![img-1](https://github.com/navanee1609/BloogerWebsite/assets/120004894/77f7c3de-8a40-44cf-8123-fe5a6af7d635)
-![img-2](https://github.com/navanee1609/BloogerWebsite/assets/120004894/778e7504-7c6d-46c9-9cff-d2fbac4f0f2c)
-![img-3](https://github.com/navanee1609/BloogerWebsite/assets/120004894/f90f4788-f650-46ea-8790-f7022343db60)
-![Img-4](https://github.com/navanee1609/BloogerWebsite/assets/120004894/70266b3f-3366-412c-9cca-16937cd91d1f)
+![img-1](https://github.com/navanee1609/BloogerWebsite/assets/120004894/d9139d50-3f4a-4f77-8918-a34d77e895e0)
+![img-2](https://github.com/navanee1609/BloogerWebsite/assets/120004894/287b51d3-f26f-4d5e-acc0-19a46a802dec)
+![img-3](https://github.com/navanee1609/BloogerWebsite/assets/120004894/c93f4c1b-6470-438c-ad63-c0c2f2a762a0)
+![Img-4](https://github.com/navanee1609/BloogerWebsite/assets/120004894/7b196e8a-397b-425e-83c5-0cfac5641732)
+
